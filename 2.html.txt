@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>为什么不好使</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
